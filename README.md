@@ -33,7 +33,15 @@ while True:
 ```
 
 ## OUTPUT
-<img width="1854" height="980" alt="Screenshot 2025-10-17 193633" src="https://github.com/user-attachments/assets/a90b8dc3-6268-472e-8e71-8c8d6a2c90c4" />
+### CLIENT
+
+<img width="744" height="238" alt="Screenshot 2025-11-10 183138" src="https://github.com/user-attachments/assets/f37077d4-a384-4a6c-9cd4-566f3abceb6f" />
+
+
+### SERVER
+
+<img width="706" height="245" alt="Screenshot 2025-11-10 183148" src="https://github.com/user-attachments/assets/677980f1-6b85-4f18-8751-77b37f36e80b" />
+
 
 
 ## RESULT
